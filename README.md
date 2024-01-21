@@ -1,6 +1,6 @@
 # catalogue_app
 
-A new Flutter catalogue project by nirajan bohara
+A new Flutter catalogue project by 
 
 ## Getting Started
 
