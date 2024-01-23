@@ -1,4 +1,4 @@
-import 'package:catalogue_app/homepage.dart';
+import 'package:catalogue_app/screens/homepage.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -13,6 +13,17 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: HomePage(),
+      themeMode: ThemeMode.dark,
+      theme: ThemeData(
+        primarySwatch: Colors.deepPurple,
+      ),
+      darkTheme: ThemeData(
+        brightness: Brightness.dark,
+        primarySwatch: Colors.red,
+      ),
+      routes: {
+        "/" : HomePage(),                                                                              
+      },
     );
   }
 }
