@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iphone 12 pro",
+            "desc": "Apple iphone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT93Z3yOXGrzf_EYYr1EohG2x1TSBXGvG6pgQ&usqp=CAU"
+        },
+        {
+            "id": 2,
+            "name": "pixel 5",
+            "desc": "Google Pixel Phone 5th Generetion",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "https://www.applegadgetsbd.com/_next/image?url=https%3A%2F%2Fadminapi.applegadgetsbd.com%2Fstorage%2Fmedia%2Fthumb%2F3784-95312.jpg&w=384&q=100"
+        },
+        {
+            "id": 3,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook Air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://www.applegadgetsbd.com/_next/image?url=https%3A%2F%2Fadminapi.applegadgetsbd.com%2Fstorage%2Fmedia%2Fthumb%2F2323-92738.jpg&w=384&q=100"
+        },
+        {
+            "id": 4,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th Generation",
+            "price": 599,
+            "color": "#544ee4",
+            "image": "https://www.applegadgetsbd.com/_next/image?url=https%3A%2F%2Fadminapi.applegadgetsbd.com%2Fstorage%2Fmedia%2Fthumb%2F2920-11759.jpg&w=384&q=100"
+        },
+        {
+            "id": 5,
+            "name": "Airpods pro",
+            "desc": "Apple airpods pro 1st generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://www.applegadgetsbd.com/_next/image?url=https%3A%2F%2Fadminapi.applegadgetsbd.com%2Fstorage%2Fmedia%2Fthumb%2FAirPods-Pro-(2nd-generation)-with-USB%E2%80%90C-charging-4694.jpg&w=384&q=100"
+        },
+        {
+            "id": 6,
+            "name": "ipad pro",
+            "desc": "Apple ipad pro 2020 edition",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://www.applegadgetsbd.com/_next/image?url=https%3A%2F%2Fadminapi.applegadgetsbd.com%2Fstorage%2Fmedia%2Fthumb%2F2469-64685.jpg&w=384&q=100"
+        },
+        {
+            "id": 7,
+            "name": "Galaxy s21 Ultra",
+            "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+            "price": 1299,
+            "color": "#icicic",
+            "image": "https://www.applegadgetsbd.com/_next/image?url=https%3A%2F%2Fadminapi.applegadgetsbd.com%2Fstorage%2Fmedia%2Fthumb%2F2313-98031.jpg&w=384&q=100"
+        },
+        {
+            "id": 8,
+            "name": "Galaxy s21",
+            "desc": "Samsung Galaxy S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://www.applegadgetsbd.com/_next/image?url=https%3A%2F%2Fadminapi.applegadgetsbd.com%2Fstorage%2Fmedia%2Fthumb%2F2101-34043.jpg&w=384&q=100"
+        }
+    ]
+}
