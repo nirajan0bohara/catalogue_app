@@ -7,7 +7,7 @@ class MyDrawer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     const imageUrl =
-        "https://media.licdn.com/dms/image/C5603AQHol5hpwC34QQ/profile-displayphoto-shrink_800_800/0/1657794556581?e=2147483647&v=beta&t=hfGZZzCI8d7f-WHZHawgnOsDRzIC2o3RRv8cmDRHyf8";
+        "https://media.licdn.com/dms/image/D4D03AQEBmtQbFtq67w/profile-displayphoto-shrink_400_400/0/1706672017673?e=1712188800&v=beta&t=-3VO7L0QDmhzHWjWEqo2PK2BGbdf74A4UfHJzFC_m3w";
     return Drawer(
       child: Container(
         color: Colors.deepPurple,
@@ -17,6 +17,7 @@ class MyDrawer extends StatelessWidget {
             DrawerHeader(
               padding: EdgeInsets.zero,
               child: UserAccountsDrawerHeader(
+                decoration: BoxDecoration(color: Colors.deepPurple),
                 margin: EdgeInsets.zero,
                 accountName: Text("Nirajan Bohara"),
                 accountEmail: Text("nirajanbohara@gmail.com"),
