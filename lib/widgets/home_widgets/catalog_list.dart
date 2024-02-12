@@ -1,6 +1,6 @@
 import 'package:catalogue_app/models/catalog.dart';
 import 'package:catalogue_app/screens/home_details.dart';
-import 'package:catalogue_app/screens/homepage.dart';
+import 'package:catalogue_app/widgets/home_widgets/catalog_item.dart';
 import 'package:flutter/material.dart';
 
 class CatalogList extends StatelessWidget {
